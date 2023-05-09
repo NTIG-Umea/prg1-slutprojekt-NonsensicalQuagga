@@ -43,3 +43,10 @@ v.21 buggfix
 v.22 slutinlämning projekt / Post mortem
 v.23 Presentation och redovisning
 
+
+## Ritprogram
+Göra en funktion som skapar en array list full med objekt som har en position och färg.
+En sektion som låter dig välja färger.
+
+
+
